@@ -6,7 +6,7 @@ fn profile() {
         region: Asia::Hong_Kong,
         organization: "https://cse.hkust.edu.hk",
         pgp_public_key_id: "EE5A 5B68 FC97 0812".split_whitespace().collect(),
-        narual_languages: vec!["English", "Cantonese", "Mandarin"],
+        narual_languages: vec!["yue-Hant", "zh-Hans", "en", "de"],
         programming_languages: vec!["Kotlin", "Rust", "Lua", "Swift", "C"]
     };
 }
