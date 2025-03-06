@@ -5,7 +5,7 @@ fn profile() {
     let henryhchchc = User {
         region: Asia::Hong_Kong,
         organization: "https://cse.hkust.edu.hk",
-        narual_languages: vec!["yue-Hant", "zh-Hans", "en", "de"],
+        narual_languages: vec!["廣東話", "华语", "English", "Deutsch"],
         programming_languages: vec!["Rust", "Kotlin", "Lua", "Swift", "C"]
     };
 }
