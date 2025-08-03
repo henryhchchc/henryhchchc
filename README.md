@@ -6,7 +6,7 @@ fn profile() {
         region: Asia::Hong_Kong,
         organization: "https://cse.hkust.edu.hk",
         natural_languages: vec!["廣東話", "华语", "English", "Deutsch"],
-        programming_languages: vec!["Rust", "Kotlin", "Lua", "Swift", "C"]
+        programming_languages: vec!["Rust", "Kotlin", "Python", "Lua", "Swift", "C"]
     };
 }
 ```
