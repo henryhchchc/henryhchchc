@@ -1,12 +1,11 @@
-```rust
 
-/// 三點幾喇，飲茶先啦
-fn profile() {
-    let henryhchchc = User {
-        region: Asia::Hong_Kong,
-        organization: "https://cse.hkust.edu.hk",
-        natural_languages: vec!["廣東話", "华语", "English", "Deutsch"],
-        programming_languages: vec!["Rust", "Kotlin", "Python", "Lua", "Swift", "C"]
-    };
-}
-```
+👋 Hi there!
+
+I am a PhD student at [HKUST](https://hkust.edu.hk).
+I work on [software engineering research](https://scholar.henryhc.net) — I write code to analyze and test other code.
+
+I program in Rust, Python, and Kotlin.
+
+I speak English, which is my language for work.
+我嘅母語係廣東話和国语。
+Ich kann auch ein bisschen Deutsch sprechen.
